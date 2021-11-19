@@ -108,6 +108,15 @@
         "hungry"
       ],
       "id": "10"
+    },
+    {
+      "name": "Eric",
+      "species": "Homospanien",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "11"
     }
   ]
 }
